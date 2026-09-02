@@ -3,8 +3,6 @@ Official repository for CoffeeGen-Plant (SIBGRAPI 2026). A procedural framework 
 
 ![Overview of the proposed methodology](figs/method.png)
 
-## ⚙️ Methodology Overview
-
 The **CoffeeGen-Plant** pipeline operates on a decoupled architecture, separating the underlying botanical topology from its visual representation into two fundamental stages:
 
 1. **Logical Model Generation:** The procedural engine first constructs a structural, graph-based *logical model*. Governed by botanical growth rules and parameters, this model defines the entire architecture of the coffee plant (such as hierarchy, branching angles, and leaf distribution) using pure mathematical and structural data, without geometric overhead.
