@@ -45,7 +45,7 @@ If you find this work useful for your research, please cite our paper:
 ### Authors
 
 | Willison Silva | Kayo Lage | Caio Cândido | Bruno Sette | Murillo Teixeira | Gabriel Serafini | Edgard Picoli | Michel Silva | Thiago Gomes |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 | Student¹ | Student¹ | Student¹ | Student¹ | Student¹ | Student¹ | Assistant Professor¹ | Assistant Professor¹ | Assistant Professor¹ |
 | willison.silva@ufv.br | kayo.lage@ufv.br | caio.candido@ufv.br | bruno.sette@ufv.br | murillo.teixeira@ufv.br | gabriel.serafini@ufv.br | epicoli@ufv.br | michel.m.silva@ufv.br | thiago.luange@ufv.br |
 
