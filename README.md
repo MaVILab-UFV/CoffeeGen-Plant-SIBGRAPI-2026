@@ -1,14 +1,18 @@
 # CoffeeGen-Plant-SIBGRAPI-2026
 Official repository for CoffeeGen-Plant (SIBGRAPI 2026). A procedural framework for 3D coffee plant generation with explicit structural representation for agricultural vision and synthetic datasets.
 
-![Overview of the proposed methodology](figs/method.png)
+<p align="center">
+  <img src="figs/method.png" alt="Overview of the proposed methodology" />
+</p>
 
 The **CoffeeGen-Plant** pipeline operates on a decoupled architecture, separating the underlying botanical topology from its visual representation into two fundamental stages:
 
 1. **Logical Model Generation:** The procedural engine first constructs a structural, graph-based *logical model*. Governed by botanical growth rules and parameters, this model defines the entire architecture of the coffee plant (such as hierarchy, branching angles, and leaf distribution) using pure mathematical and structural data, without geometric overhead.
 2. **Geometric and Material Instantiation:** Subsequently, this logical model is translated into the 3D space. The structural nodes are coupled with their respective 3D *meshes* and textured using our high-fidelity dataset of real leaf and trunk *materials*. This process gives visual form to the logical structure, culminating in the final photorealistic 3D model, ready for simulation, automatic annotation, and export.
 
-![Qualitative comparison of predictions](figs/qualitative.png)
+<p align="center">
+  <img src="figs/qualitative.png" alt="Qualitative comparison of predictions" />
+</p>
 
 > **Status:** The code and dataset are being organized for public release and will be made available in this repository soon. Watch/star the repository to be notified once they are published.
 
