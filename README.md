@@ -32,7 +32,7 @@ If you find this work useful for your research, please cite our paper:
     Thiago Gomes
   },
   title = {Procedural Modeling of Coffee Plants with Explicit Structural Representation},
-  booktitle = {Proceedings of the Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI)},
+  booktitle = {2026 39th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)},
   year = {2026},
    volume={},
   number={},
