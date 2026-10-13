@@ -66,9 +66,6 @@ https://mavilab-ufv.github.io/
 
 We thank CAPES, FAPEMIG (PPE-00047-21), CNPq (444648/2024-0), Idata-UFV, FINEP (IA-AD-UFV \#0284/22), Cluster/UFV, EPAMIG, and EMBRAPA (ConCafé \#10.24.22.032.00.00/337). 
 
-markdown
-```
-## Quick Start
 
+## Quick Start
 For instructions on how to get started with CoffeeGen-Plant, see the [Quick Start Guide](quick_start.md).
-```
